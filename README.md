@@ -1,5 +1,6 @@
 # ECOSCRIBE is a conceptual business project focused on transforming agricultural waste into sustainable stationery products for the Indian market
 ## Project Objective 
+📄 [View Business Plan](./ECOSCRIBE.pdf)
 The ECOSCRIBE project aims to revolutionize India's stationery industry by addressing one of the country's most pressing environmental challenges - stubble burning. Our primary objectives include:  
 - Environmental Impact Reduction: Combat the severe air pollution crisis caused by stubble burning, particularly in Punjab and Haryana during harvest seasons (October and April), by converting agricultural waste into valuable raw materials for sustainable stationery products.
 - Circular Economy Implementation: Establish a comprehensive circular economy model that transforms rice stubble, typically considered agricultural waste, into high-quality bioplastic pens through advanced bioplastic optimization techniques focused on durability and environmental safety.
